@@ -84,7 +84,7 @@ Object-Oriented Programming (OOP), API Integration, Database Design, CRUD Operat
   Your browser does not support the video tag.
 </video>
 
-[▶️Watch Video](./Mock_interview.mp4)
+[▶️Watch Video](https://github.com/McakumbaMbasa/McakumbaMbasa.github.io/commit/29b6eb103de7d788131737ecc12c20776fcde2c3)
 
 ## REFERENCES
 
