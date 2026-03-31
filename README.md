@@ -84,8 +84,7 @@ Object-Oriented Programming (OOP), API Integration, Database Design, CRUD Operat
   Your browser does not support the video tag.
 </video>
 
-[![Watch Video](https://img.shields.io/badge/Watch_Mock_Interview-Click_Here-blue?style=for-the-badge&logo=video)](./Mock_Interview.mp4)
-
+[🎬 **Watch My Mock Interview **](https://github.com/McakumbaMbasa/McakumbaMbasa.github.io/raw/main/Mock_Interview.mp4)
 ## REFERENCES
 
 **Mr N. Kruben**  
