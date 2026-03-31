@@ -1,11 +1,12 @@
 # MBASA MCAKUMBA  
+# THIRD YEAR ICT STUDENT
 
 📍 RISE Student Living, UNITS, Cape Station, Adderley Street, 8001  
 📞 (+27) 64 791 7385  
-📧 241080371@mycput.ac.za  
+📧 241080371@mycput.ac.za  | mcakumbambasa@gmail.com
 
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)  
-💻 [GitHub](https://github.com/McakumbaMbasa)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mcakumbmbasa)  
+🔗  [GitHub](https://github.com/McakumbaMbasa)  
 
 ---
 
@@ -83,7 +84,7 @@ Object-Oriented Programming (OOP), API Integration, Database Design, CRUD Operat
   Your browser does not support the video tag.
 </video>
 
-[▶️ Download / Open Video](./mock-interview.mp4)
+[▶️Watch Video](./Mock-interview.mp4)
 
 ## REFERENCES
 
