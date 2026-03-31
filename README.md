@@ -80,16 +80,21 @@ Object-Oriented Programming (OOP), API Integration, Database Design, CRUD Operat
 ## MOCK INTERVIEW VIDEO
 
 <div align="center">
-  <h2>📽️ Mock Interview </h2>
+  <h3>📽️ Mock Interview & Project Presentation</h3>
   
-  <video width="100%" height="auto" controls>
+  <video width="100%" height="auto" controls preload="metadata" style="background-color:black;">
     <source src="./Mock_Interview.mp4" type="video/mp4">
     Your browser does not support the video tag. 
-    <a href="./Mock_Interview.mp4">Click here to open/download the video file.</a>
   </video>
+  
+  <br>
+  <p>👇 <b>If the player above is blank, click here:</b></p>
+  <a href="./Mock_Interview.mp4"><b>[ CLICK TO WATCH VIDEO ]</b></a>
+</div>
 
   <p><i>Click the play button above to watch my 3rd-year project demonstration.</i></p>
 </div>
+
 ## REFERENCES
 
 **Mr N. Kruben**  
