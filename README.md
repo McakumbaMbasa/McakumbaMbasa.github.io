@@ -1,53 +1,98 @@
-# McakumbaMbasa.github.io
-# Mbasa Mcakumba
-RISE Student Living, UNITS in Cape Sation, Adderly street, 8001 | 241080371@mycput.ac.za | (+27) 64 791 7385
-LinkedIn: Mbasa Mcakumba | GitHub: McakumbaMbasa
+# MBASA MCAKUMBA  
 
-## Career Objective
-I am a final-year ICT Applications Development student at CPUT. I am passionate about programming, software development, web technologies, and database management. I want to apply my technical knowledge to practical solutions and problem-solving.
+📍 RISE Student Living, UNITS, Cape Station, Adderley Street, 8001  
+📞 (+27) 64 791 7385  
+📧 241080371@mycput.ac.za  
 
-## Education
-**Diploma, ICT Applications Development**
-Cape Peninsula University of Technology
-* Feb 2024 - Present
+🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)  
+💻 [GitHub](https://github.com/McakumbaMbasa)  
 
-**National Senior Certificate (Grade 12)**
-Manzomthombo High School
-* Completed 2023
+---
 
-## Technical Skills
-* **Programming:** Python, Java, JavaScript
-* **Web Development:** HTML, CSS
-* **Database Management:** SQL (MySQL)
-* **Development Tools:** Git, GitHub, Visual Studio Code, IntelliJ IDEA, NetBeans
-* **Concepts:** Object-Oriented Programming, API Integration, Database Design & CRUD Operations, Version Control
+## PROFESSIONAL SUMMARY
+Final-year ICT Applications Development student at Cape Peninsula University of Technology (CPUT) with a strong passion for software development, programming, web technologies, and database systems. Skilled in developing practical, problem-solving solutions using modern technologies. Seeking an opportunity to apply technical knowledge in a real-world environment and contribute to innovative projects.
 
-## Academic Projects
-**Fuel Stations Application**
-* Full-Stack Developer and Scribe for project group DM1.
-* Developing a database-driven desktop application to transition fuel transactions to a pre-paid digital model using Java and MySQL.
+---
 
-**Residence Management System**
-* Developed a desktop system using Python and SQL to manage student accommodation records and room allocations.
-* Implemented CRUD functionality with structured database storage.
-* Designed search and allocation features to simulate real-world management.
+## EDUCATION
+**Diploma in ICT Applications Development**  
+Cape Peninsula University of Technology (CPUT)  
+*Feb 2024 – Present*
 
-**Personal Budget Tracker - FinBud**
-* Built an object-oriented Java application to record and categorize income and expenses.
-* Applied inheritance and polymorphism to create reusable and maintainable class structures.
-* Generated monthly summaries for financial tracking.
+**National Senior Certificate (Grade 12)**  
+Manzomthombo High School  
+*Completed 2023*
 
-**Local Business Finder (Web Application)**
-* Created a responsive website using HTML, CSS, JavaScript, and an API.
-* Integrated a public API to fetch and display real-time data.
-* Implemented dynamic search functionality and a user-friendly interface.
+---
 
-## References
-**Mr N. Kruben**
-Lecturer, Applications Development Practice 3, CPUT
-naidook@cput.ac.za
+## TECHNICAL SKILLS
 
-**Ms N Tungela**
-Lecturer, Applications Development Theory 3, CPUT
-tungelan@cput.ac.za
-[Visit my GitHub Profile](https://github.com/McakumbaMbasa)
+**Programming Languages:**  
+Python, Java, JavaScript  
+
+**Web Development:**  
+HTML, CSS  
+
+**Database Management:**  
+SQL (MySQL)  
+
+**Development Tools:**  
+Git, GitHub, Visual Studio Code, IntelliJ IDEA, NetBeans  
+
+**Core Concepts:**  
+Object-Oriented Programming (OOP), API Integration, Database Design, CRUD Operations, Version Control  
+
+---
+
+## ACADEMIC PROJECTS
+
+### Fuel Stations Application
+- Role: Full-Stack Developer & Scribe (Project Group DM1)  
+- Developed a database-driven desktop application to transition fuel transactions into a prepaid digital model  
+- Utilized Java and MySQL for backend logic and data management  
+
+---
+
+### Residence Management System
+- Developed a desktop application using Python and SQL to manage student accommodation records  
+- Implemented full CRUD functionality with structured database storage  
+- Designed search and room allocation features to simulate real-world systems  
+
+---
+
+### Personal Budget Tracker – FinBud
+- Built an object-oriented Java application to track income and expenses  
+- Applied inheritance and polymorphism for reusable and scalable code  
+- Generated monthly summaries for financial monitoring  
+
+---
+
+### Local Business Finder (Web Application)
+- Developed a responsive web application using HTML, CSS, and JavaScript  
+- Integrated a public API to display real-time business data  
+- Implemented dynamic search functionality and user-friendly interface design  
+
+---
+
+## MOCK INTERVIEW VIDEO
+
+## MOCK INTERVIEW VIDEO
+
+<video width="600" controls>
+  <source src="./mock-interview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+[▶️ Download / Open Video](./mock-interview.mp4)
+
+## REFERENCES
+
+**Mr N. Kruben**  
+Lecturer, Applications Development Practice 3, CPUT  
+📧 naidook@cput.ac.za  
+
+**Ms N Tungela**  
+Lecturer, Applications Development Theory 3, CPUT  
+📧 tungelan@cput.ac.za  
+
+---
