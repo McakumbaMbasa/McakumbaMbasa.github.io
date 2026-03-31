@@ -79,8 +79,8 @@ Object-Oriented Programming (OOP), API Integration, Database Design, CRUD Operat
 
 ## MOCK INTERVIEW VIDEO
 
-## 📽️ Mock Interview & Presentation
-I have recorded a 13MB high-definition mock interview for my 3rd-year project.
+## 📽️ Mock Interview 
+I have recorded a mock interview vide0.
 
 👉 [**CLICK HERE TO WATCH THE VIDEO**](https://mcakumbambasa.github.io/Mock_Interview.mp4)
 
