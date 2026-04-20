@@ -93,10 +93,7 @@ Object-Oriented Programming (OOP) · API Integration · Database Design · CRUD 
 Backend:   Java 17 · Spring Boot 3.2 · Spring Data JPA · H2 Database
 Frontend:  HTML5 · CSS3 · Vanilla JavaScript
 Tools:     IntelliJ IDEA · Maven · GitHub
-```
 
-🔗 [View Source Code](https://github.com/McakumbaMbasa/cput-student-os)  
-🌐 [Live Demo](https://McakumbaMbasa.github.io/cput-student-os)
 
 ---
 
@@ -123,10 +120,6 @@ Frontend:  HTML5 · CSS3 · Vanilla JavaScript · Web Speech API
 Hosting:   GitHub Pages
 ```
 
-🔗 [View Source Code](https://github.com/McakumbaMbasa/mindbridge)  
-🌐 [Live Demo](https://McakumbaMbasa.github.io/mindbridge)
-
----
 
 ### 💼 SA JobBridge — Unemployment Solution Platform
 
@@ -149,31 +142,14 @@ Frontend:  HTML5 · CSS3 · Vanilla JavaScript
 Hosting:   Render.com (free tier)
 ```
 
-🔗 [View Source Code](https://github.com/McakumbaMbasa/sa-jobbridge)  
-🌐 [Live Demo](https://sa-jobbridge.onrender.com)
-
----
-
 ## 🎥 Mock Interview Video
 
 > This video documents my mock interview experience as part of work readiness preparation at CPUT (PRP370S, 2026).
 
 [![Watch Mock Interview](https://img.shields.io/badge/▶_Watch-Mock_Interview_Video-red?style=for-the-badge)](https://mcakumbambasa.github.io/Mock_Interview.mp4)
 
-**Topics covered in the interview:**
-- ✅ Introduction and professional background
-- ✅ Technical skills and programming languages
-- ✅ Academic projects walkthrough
-- ✅ Teamwork and problem-solving experiences (STAR method)
-- ✅ Career goals and motivation for ICT
-
 ---
 
-## 📝 Reflections
-
-> All reflections use the **STAR method**: **S**ituation · **T**ask · **A**ction · **R**esult
-
----
 
 ### 1️⃣ Reflection on Coding in Markdown
 
@@ -187,7 +163,7 @@ My task was to learn GitHub Flavoured Markdown (GFM) and use it to code a comple
 I started by reading the GitHub Markdown documentation and experimenting with basic syntax such as headings (`#`, `##`), bold and italic text, tables, bullet lists, code blocks with syntax highlighting, and hyperlinks. I then built each section progressively: I coded my CV using tables and collapsible `<details>` elements, added project cards with technology badges from shields.io, and used horizontal rules (`---`) for visual separation between sections. I also used HTML within the Markdown to embed a video link and format certain elements more precisely. I used GitHub's built-in preview feature to check my formatting in real time as I worked.
 
 **Result:**  
-I successfully built a fully formatted, professional digital portfolio using only Markdown and a small amount of HTML. I now understand that Markdown is a powerful and widely-used skill in the software development industry — it is used in README files, GitHub wikis, pull requests, and project documentation every day. This experience showed me that being a good developer is not only about writing code but also about clearly communicating and presenting your work. I feel fully confident writing Markdown for any future project documentation or professional portfolio.
+I successfully built a fully formatted, professional digital portfolio using only Markdown and a small amount of HTML. I now understand that Markdown is a powerful and widely-used skill in the software development industry it is used in README files, GitHub wikis, pull requests, and project documentation every day. This experience showed me that being a good developer is not only about writing code but also about clearly communicating and presenting your work. I feel fully confident writing Markdown for any future project documentation or professional portfolio.
 
 ---
 
@@ -200,10 +176,10 @@ As part of my work readiness preparation at CPUT for PRP370S, I was required to 
 My task was to prepare thoroughly for the mock interview, record the session in a professional manner, embed the video in my GitHub portfolio using Markdown or HTML, and reflect critically on my performance to identify areas of strength and areas for improvement.
 
 **Action:**  
-I prepared by researching common ICT interview questions, including questions about my programming languages, academic projects, teamwork experiences, and career goals. I practised structuring my answers using the STAR method so that my responses were clear, specific, and evidence-based. On the day of recording I dressed professionally, selected a clean and quiet background, and made sure the lighting was good After recording I watched the video back critically to evaluate my body language, the pace of my speech, and the clarity of my explanations.
+I prepared by researching common ICT interview questions, including questions about my programming languages, academic projects, teamwork experiences, and career goals. I practised structuring my answers using the STAR method so that my responses were clear, specific, and evidence based. On the day of recording I dressed professionally, selected a clean and quiet background, and made sure the lighting was good After recording I watched the video back critically to evaluate my body language, the pace of my speech, and the clarity of my explanations.
 
 **Result:**  
-The mock interview was both challenging and genuinely valuable. Watching myself back was humbling — I noticed that I spoke too quickly at the start when nervous, but settled into a better pace as the interview progressed. My technical explanations were strong and I was able to clearly describe my projects. This experience taught me that preparation and practice are the most effective tools for building interview confidence. I also gained the practical skill of hosting and linking a video from GitHub, which is useful for any future portfolio or project showcase.
+The mock interview was both challenging and genuinely valuable. Watching myself back was humbling I noticed that I spoke too quickly at the start when nervous, but settled into a better pace as the interview progressed. My technical explanations were strong. This experience taught me that preparation and practice are the most effective tools for building interview confidence. I also gained the practical skill of hosting and linking a video from GitHub, which is useful for any future portfolio or project showcase.
 
 ---
 
@@ -213,7 +189,7 @@ The mock interview was both challenging and genuinely valuable. Watching myself 
 After building my complete digital portfolio in Markdown on GitHub, I needed to publish it as a live, publicly accessible website using GitHub Pages so that my lecturer and external moderator could view it at a real web URL. I had not used GitHub Pages before and was unsure how the deployment process worked or how it would render my Markdown files as an actual website.
 
 **Task:**  
-My task was to enable GitHub Pages on my repository, verify that the deployment was successful and the site displayed correctly, and then submit the live public URL on Blackboard as the final deliverable for PRP370S — all within a tight deadline.
+My task was to enable GitHub Pages on my repository, verify that the deployment was successful and the site displayed correctly, and then submit the live public URL on Blackboard as the final deliverable for PRP370S  all within a tight deadline.
 
 **Action:**  
 I navigated to my repository on GitHub, clicked on the **Settings** tab, scrolled to the **Pages** section in the left sidebar, and under Source selected **Deploy from a branch**, choosing the **main** branch and the **/ (root)** folder. I then clicked Save and waited approximately two to three minutes for GitHub to build and deploy the site. I refreshed the Pages settings page until the green banner appeared confirming my site was live. I then opened the URL in a browser to verify that my README, CV, project descriptions, mock interview video link, and all three STAR reflections rendered correctly. I made final edits to fix any formatting issues and committed the changes, which triggered an automatic redeployment.
