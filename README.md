@@ -168,8 +168,7 @@ I successfully built a fully formatted, professional digital portfolio using onl
 ---
 
 ### 2️⃣ Reflection on the Mock Interview Video Experience
-
-**Situation:**  
+ **Situation:**  
 As part of my work readiness preparation at CPUT for PRP370S, I was required to participate in a mock interview, record a video of my performance, and embed it in my digital portfolio. This was my first experience being recorded in an interview setting and I felt nervous about presenting myself professionally on camera while answering both technical and behavioural questions.
 
 **Task:**  
