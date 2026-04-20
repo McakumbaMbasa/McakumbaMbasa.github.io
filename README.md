@@ -158,7 +158,7 @@ Hosting:   Render.com (free tier)
 
 > This video documents my mock interview experience as part of work readiness preparation at CPUT (PRP370S, 2026).
 
-[![Watch Mock Interview](https://img.shields.io/badge/▶_Watch-Mock_Interview_Video-red?style=for-the-badge)](https://github.com/McakumbaMbasa/McakumbaMbasa.github.io/raw/main/Mock_Interview.mp4)
+[![Watch Mock Interview](https://img.shields.io/badge/▶_Watch-Mock_Interview_Video-red?style=for-the-badge)](https://mcakumbambasa.github.io/Mock_Interview.mp4)
 
 **Topics covered in the interview:**
 - ✅ Introduction and professional background
