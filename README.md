@@ -97,7 +97,7 @@ Tools:     IntelliJ IDEA · Maven · GitHub
 
 ---
 
-### 🧠 MindBridge — Inclusive Student Wellness App
+## 🧠 MindBridge — Inclusive Student Wellness App
 
 > A mental health and wellness platform built specifically for South African students, with full disability and accessibility support.
 
@@ -122,7 +122,7 @@ Hosting:   GitHub Pages
 
 ---
 
-### 💼 SA JobBridge — Unemployment Solution Platform
+## 💼 SA JobBridge — Unemployment Solution Platform
 
 > A Python web platform directly addressing South Africa's 32.9% unemployment rate by connecting job seekers with employers and SETA training opportunities.
 
